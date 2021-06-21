@@ -15,3 +15,7 @@ Exercício 3 | Listas Intercaladas com pontos turísticos de uma região.
 
 #### • Atividades do dia 07/06/2021
 Exercício 4 | Inserindo imagens.
+<hr>
+
+#### • Atividades do dia 14/06/2021
+Exercício 5 | Criando links.
