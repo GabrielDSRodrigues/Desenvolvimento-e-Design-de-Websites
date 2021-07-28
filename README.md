@@ -1,10 +1,12 @@
 # ETEC-DDW-ATIVIDADES
 
+### DDW 1º Módulo
+
 #### • Atividade 01
 Cartão Mostrando algumas informações minhas
 <hr>
 
-#### • Atividades do dia 24/05/2021
+#### • Atividade do dia 24/05/2021
 Exercício 1 | Ficha com dados.
 <hr>
 
@@ -19,3 +21,9 @@ Exercício 4 | Inserindo imagens.
 
 #### • Atividades do dia 14/06/2021
 Exercício 5 | Criando links.
+<hr>
+
+### DDW 2º Módulo
+
+#### • Atividade do dia 26/07/2021
+Exercício 1 | Trocando de página por links.
