@@ -31,3 +31,7 @@ Exercício 1 | Trocando de página por links.
 
 #### • Introdução ao CSS - 19/10/2021
 Estilizando Parágrafo e Fundo.
+
+#### • 26/10/2021
+Lorem...
+<hr>
