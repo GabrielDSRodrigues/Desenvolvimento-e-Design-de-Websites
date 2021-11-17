@@ -1,0 +1,19 @@
+div {
+  width: 200px;
+  background-color: lightblue;
+}
+
+#div2 {
+  padding: 25px;
+}
+
+#div3 {
+  padding: 25px;
+  border: 25px solid blue;
+}
+
+#div4 {
+  padding: 25px;
+  border: 25px solid blue;
+  margin: 25px;
+}

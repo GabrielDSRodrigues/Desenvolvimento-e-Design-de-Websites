@@ -1,0 +1,56 @@
+body {
+  margin-top: 100px;
+  margin-right: 40px;
+  margin-bottom: 10px;
+  margin-left: 70px; 
+}
+
+p {
+  margin: 5px 50px 5px 50px;
+}
+
+ul.inside {
+  list-style-position: inside;
+}
+
+ul.outside {
+  list-style-position: outside;
+}
+
+ul.square {
+  list-style-type: square;
+}
+
+ul.uproman {
+  list-style-type: upper-roman;
+}
+
+table.a {
+  table-layout: automatic;
+}
+
+table.b {
+  table-layout: fixed;
+}
+
+table.c {
+  border-collapse: collapse;
+}
+
+table.d {
+  border-collapse: separate;
+}
+
+table.e {
+  border-collapse: separate;
+  border-spacing: 20px;
+}
+
+table.f {
+  border-collapse: separate;
+  border-spacing: 40px 60px;
+}
+
+caption {
+  caption-side: left;
+}
