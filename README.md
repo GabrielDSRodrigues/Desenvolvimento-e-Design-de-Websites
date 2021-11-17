@@ -1,6 +1,6 @@
-<h1 style="color:#00EEFF;">ETEC-DDW-ATIVIDADES</h1>
+<h1>ETEC-DDW-ATIVIDADES</h1>
 
-<h2 style="color:#00BFFF;">DDW 1º Módulo | HTML</h2>
+<h2>DDW 1º Módulo | HTML</h2>
 
 #### • Introdução ao HTML
 Cartão Mostrando algumas informações minhas
